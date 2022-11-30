@@ -1,0 +1,24 @@
+{
+  "name": "exemplo1",
+  "version": "1.0.0",
+  "description": "## primeiro criar o arquivo de actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flcs/aula01-2022-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flcs/aula01-2022-2/issues"
+  },
+  "homepage": "https://github.com/flcs/aula01-2022-2#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "typescritp": "^1.0.0"
+  }
+}
