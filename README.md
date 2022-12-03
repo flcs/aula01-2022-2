@@ -4,7 +4,8 @@
 
 ### npm init -y
 
-### npm i -D typescript@types/node
+### npm i -D typescript
+### npm i -D @types/node
 ### npx tsc --init
 
 ### npm i -D ts-node-dev
